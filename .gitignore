@@ -134,3 +134,9 @@ Icon
 ## hack for graddle wrapper
 !wrapper/*.jar
 !**/wrapper/*.jar
+
+## eclipse config
+.git
+*/.git/*
+.deployables
+*/node_modules/*
